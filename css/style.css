@@ -146,24 +146,24 @@
   color: #263238;
 }
 
-.rocketBg {
+.rocketBgHome {
   position: absolute;
   top: 60px;
   right: 130px;
 }
 
-.rocketBg img {
+.rocketBgHome img {
   height: 500px;
   width: 500px;
 }
 
 @media screen and (min-width: 1367px) {
-  .rocketBg img {
+  .rocketBgHome img {
     height: 700px;
     width: 700px;
   }
 
-  .rocketBg {
+  .rocketBgHome {
     top: 160px;
     right: 200px;
   }
